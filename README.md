@@ -21,12 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
 - Solution URL: [Github](https://github.com/daniel88li/fm-challenge2)
-- Live Site URL: [Github Page](https://daniel88li.github.io/fm-challenge2)
+- Live Site URL: [Github Pages](https://daniel88li.github.io/fm-challenge2)
 
 ## My process
 
